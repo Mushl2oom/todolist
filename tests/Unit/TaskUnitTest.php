@@ -5,6 +5,7 @@ namespace Tests\Unit;
 use Tests\TestCase;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use App\Models\Task;
+use Tests\Unit\Withfaker;
 
 class TaskUnitTest extends TestCase
 { 
